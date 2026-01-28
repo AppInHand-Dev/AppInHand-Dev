@@ -10,8 +10,8 @@ Here are some of the apps I've built and currently maintain:
 
 | Icon | App | Description | Download |
 | :--- | :--- | :--- | :--- |
-| <img src="assets/chordQuest_icon.jpg" width="48"> | **ChordQuest** | A practice tool for musicians to build muscle memory and master chord changes. | <a href="https://play.google.com/store/apps/details?id=com.marcomaffei.chordsmemorytraining"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="120"></a> |
-| <img src="assets/chess-pgn-annotator_icon.jpg" width="48"> | **Chess - PGN Annotator** | An Android app for annotating your chess games. | <a href="https://play.google.com/store/apps/details?id=com.marcomaffei.chesspgnannotation"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="120"></a> |
+| <img src="assets/chordQuest_icon.jpg" width="48"> | **ChordQuest** | A practice tool for musicians to build muscle memory and master chord changes. | <a href="https://play.google.com/store/apps/details?id=com.marcomaffei.chordsmemorytraining" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="120"></a> |
+| <img src="assets/chess-pgn-annotator_icon.jpg" width="48"> | **Chess - PGN Annotator** | An Android app for annotating your chess games. | <a href="https://play.google.com/store/apps/details?id=com.marcomaffei.chesspgnannotation" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="120"></a> |
 
 ---
 
