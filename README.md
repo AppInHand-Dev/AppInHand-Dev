@@ -10,12 +10,12 @@ Here are some of the apps I've built and currently maintain:
 
 | Icon | App | Description |
 | :--- | :--- | :--- |
-| <img src="[URL ALL'ICONA DI CHORDQUEST]" width="48"> | **'ChordQuest'** | A practice tool for musicians to build muscle memory and master chord changes. |
-| <img src="[URL ALL'ICONA DI CHESS-PGN-ANNOTATOR]" width="48"> | **'Chess - PGN Annotator'** | An Android app for annotating your chess games. |
+| <img src="[URL ALL'ICONA DI CHORDQUEST]" width="48"> | **ChordQuest** | A practice tool for musicians to build muscle memory and master chord changes. |
+| <img src="[URL ALL'ICONA DI CHESS-PGN-ANNOTATOR]" width="48"> | **Chess - PGN Annotator** | An Android app for annotating your chess games. |
 
 #### Get them on Google Play:
-<a href="[LINK A GOOGLE PLAY PER CHORDQUEST]"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150"></a>
-<a href="[LINK A GOOGLE PLAY PER CHESS-PGN-ANNOTATOR]"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150"></a>
+<a href="https://play.google.com/store/apps/details?id=com.marcomaffei.chordsmemorytraining"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150"></a>
+<a href="https://play.google.com/store/apps/details?id=com.marcomaffei.chesspgnannotation"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150"></a>
 
 ---
 
@@ -31,7 +31,7 @@ Here are some of the apps I've built and currently maintain:
 ### 📫 Find me here:
 
 <!-- Aggiungi qui i link ai tuoi altri profili -->
-*   **Reddit:** u/AppInHand_Dev
-*   **Lichess:** @MMrRobot
-*   **Chess.com:** @MMrRobot
+*   **Reddit:** <a href="https://www.reddit.com/user/AppInHand_Dev/">AppInHand_Dev</a>
+*   **Lichess:** <a href="https://lichess.org/@/MMrRobot/">MMrRobot</a>
+*   **Chess.com:** <a href="https://www.chess.com/member/mmrrobot/">MMrRobot</a>
 *   **Website:** appinhand.it
