@@ -31,7 +31,7 @@ Here are some of the apps I've built and currently maintain:
 ### 📫 Find me here:
 
 <!-- Aggiungi qui i link ai tuoi altri profili -->
-*   **Reddit:** u/[tuo-username]
-*   **Lichess:** @[tuo-username]
-*   **Chess.com:** @[tuo-username]
+*   **Reddit:** u/AppInHand_Dev
+*   **Lichess:** @MMrRobot
+*   **Chess.com:** @MMrRobot
 *   **Website:** appinhand.it
