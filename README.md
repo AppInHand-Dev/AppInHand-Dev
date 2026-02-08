@@ -18,9 +18,9 @@ Here are some of the apps I've built and currently maintain:
 ### 🛠️ Tech & Tools I Use
 
 *   **Languages:** Php, Html, Css, Javascript, Typescript, jQuery, SQL, C#, C++, VB, Rust, Python, Java, Kotlin, Assembly
-*   **Platform:** Android (Android SDK, Jetpack), Nodejs, Spring Boot
-*   **Libraries:** Room, Coroutines, Flow, etc., React
-*   **Tools:** Android Studio, Visual Studio, Visual Studio Code, Notepad++, PhpMyAdmin, MySQL, PostgreSQL, Wordpress
+*   **Platform:** Android (Android SDK, Jetpack), .NET, Nodejs, Spring Boot, Docker, Xampp, Arduino
+*   **Libraries:** Room, Coroutines, Flow, etc., React, Bootstrap
+*   **Tools:** Android Studio, Visual Studio, Visual Studio Code, Notepad++, PhpMyAdmin, MySQL, PostgreSQL, MariaDB, Wordpress, Arduino, Ghidra, IDA, x96dbg
 
 ---
 
