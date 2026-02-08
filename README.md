@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Marco
 
-I'm an Indie Developer and the founder of **appinhand.it**, where I build digital tools to help people learn and improve their skills.
+I'm an Indie Full Stack Developer and the founder of **appinhand.it**, where I build digital tools to help people learn and improve their skills.
 
 ---
 
@@ -17,16 +17,15 @@ Here are some of the apps I've built and currently maintain:
 
 ### 🛠️ Tech & Tools I Use
 
-*   **Languages:** Kotlin
-*   **Platform:** Android (Android SDK, Jetpack)
-*   **Libraries:** Room, Coroutines, Flow, etc.
-*   **Tools:** Android Studio
+*   **Languages:** Php, Html, Css, Javascript, Typescript, jQuery, SQL, C#, C++, VB, Rust, Python, Java, Kotlin, Assembly
+*   **Platform:** Android (Android SDK, Jetpack), Nodejs, Spring Boot
+*   **Libraries:** Room, Coroutines, Flow, etc., React
+*   **Tools:** Android Studio, Visual Studio, Visual Studio Code, Notepad++, PhpMyAdmin, MySQL, PostgreSQL, Wordpress
 
 ---
 
 ### 📫 Find me here:
 
-<!-- Aggiungi qui i link ai tuoi altri profili -->
 *   **Reddit:** <a href="https://www.reddit.com/user/AppInHand_Dev/">AppInHand_Dev</a>
 *   **Lichess:** <a href="https://lichess.org/@/MMrRobot/">MMrRobot</a>
 *   **Chess.com:** <a href="https://www.chess.com/member/mmrrobot/">MMrRobot</a>
